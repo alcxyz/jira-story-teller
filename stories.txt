@@ -1,0 +1,4 @@
+These are examples Stories
+Finalize the project planning and scoping
+Design and describe the desired structure for better infrastructure security
+Set up initial infrastructure with required security controls
